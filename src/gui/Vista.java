@@ -12,9 +12,7 @@ import modelo.*;
 
 /**
  *
- * @authors Cortés Antonio,
- *          Pérez Villoria Yoali,
- *          Quintanar Luis.
+ * @author Quintanar Luis.
  */
 public class Vista {
     
